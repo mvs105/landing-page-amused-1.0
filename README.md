@@ -1,5 +1,4 @@
 # Página da empresa AMUSED
 
-Trabalho desenvolvido para a disciplina de Marketing, por alunos do 3º período do curso de Sistemas de Informação da Universidade Federal do Acre.
-A AMUSED é uma empresa fictícia voltada para o mercado de Design. Nosso diferencial está no relacionamento com o cliente e com sua marca. 
-O nosso slogan: 'more than just design, it's what's inside." se refere a nossa capacidade de entender que o cliente deposita na marca e representá-la de forma gráfica visual. 
+Em 2025, os alunos do 3º período do curso de Bacharelado em Sistemas de Informação da Universidade Federal do Acre desenvolveram um trabalho para a disciplina de Marketing relacionado à prototipação de uma empresa e sua estrutura organizacional.
+Dessa forma, foi criada a AMUSED, uma empresa fictícia voltada ao mercado de Design Gráfico e Identidade Visual, cujo diferencial está no estabelecimento de um forte relacionamento entre o cliente e a marca. Com o slogan "more than just design, it's what's inside", em lingua inglesa, o posicionamento da empresa evidencia a responsabilidade que o contratante deposita na marca e a complexidade na construção gráfica visual desempenhado pela AMUSED.
